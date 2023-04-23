@@ -22,10 +22,10 @@ CleanCodeStudy의 목적은 다음과 같습니다.
 <table>
   <tr>
     <td style="font-size: 50px;">👩🏻</td>
-    <td>빈현지</td>
+     <td style="font-size: 50px;">🧑🏻</td>
   </tr>
   <tr>
-    <td style="font-size: 50px;">🧑🏻</td>
+    <td>빈현지</td>
     <td>김종완</td>
   </tr>
 </table>
