@@ -19,5 +19,13 @@ CleanCodeStudy의 목적은 다음과 같습니다.
 
 ## 참여자
 
-| 👩🏻 | 🧑🏻 |
-| 빈현지 | 김종완 |
+<table>
+  <tr>
+    <td style="font-size: 50px;">👩🏻</td>
+    <td>빈현지</td>
+  </tr>
+  <tr>
+    <td style="font-size: 50px;">🧑🏻</td>
+    <td>김종완</td>
+  </tr>
+</table>
