@@ -5,19 +5,24 @@
 효과적으로 이름을 잘 짓는 법 16가지를 소개한다.
 
 ## 1.의도를 분명히 밝혀라
--변수(함수,클래스 등)의 존재 이유는?<br/> 
--수행 기능은?<br/>
--사용 방법은?<br/>
+#### -변수(함수,클래스 등)의 존재 이유는?<br/> 
+#### -수행 기능은?<br/>
+#### -사용 방법은?<br/>
 ex) int elapsedTimeInDays;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int daysSinceCreation;<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int fileAgeInDays;<br/>
 
 ## 2.그릇된 정보를 피하라
--널리 쓰이는 약어 사용x ex)hp, aix, sco...<br/>
--특수한 의미를 가진 단어 사용x ex)List(대신 Accounts)<br/>
--흡사한 이름 사용x ex)XYZControllerForEfficientHandlingOfStrings / XYZControllerForEfficientStorageOfStrings <br/>
--일관성 떨어지는 표기법 사용x. 유사한 개념은 유사한 표기법을 사용한다.<br/>
--비슷하게 생긴 이름 사용x ex) 소문자L : 숫자1, 대문자O : 숫자0 <br/>
+#### -널리 쓰이는 약어 사용x                            
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex) hp, aix, sco...<br/>
+#### -특수한 의미를 가진 단어 사용x                      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex) List(대신 Accounts)<br/>
+#### -흡사한 이름 사용x                                 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex) XYZControllerForEfficientHandlingOfStrings / XYZControllerForEfficientStorageOfStrings <br/>
+#### -일관성 떨어지는 표기법 사용x. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;유사한 개념은 유사한 표기법을 사용한다.<br/>
+#### -비슷하게 생긴 이름 사용x                          
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ex) 소문자L : 숫자1, 대문자O : 숫자0 <br/>
 
 ## 3.의미 있게 구분하라
 저자의 의도가 드러나게, 읽는 사람이 차이를 알도록 이름 짓기.
